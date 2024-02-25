@@ -11576,6 +11576,14 @@
     "sc": "Online"
   },
   {
+    "s": "Bookshop.org",
+    "d": "www.bookshop.org",
+    "t": "bookshop",
+    "u": "https://bookshop.org/books?keywords={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Books"
+  },
+  {
     "s": "boomkat",
     "d": "boomkat.com",
     "t": "boomkat",
